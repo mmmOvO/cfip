@@ -1,0 +1,21 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+47.76.227.128,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",169,38.58
+47.76.227.128,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",159,37.03
+47.76.227.128,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",172,24.49
+47.76.189.214,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",154,11.10
+47.76.32.108,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",153,6.96
+47.76.32.108,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",789,4.76
+47.76.32.108,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",935,2.92
+47.76.49.246,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",397,2.23
+47.76.178.146,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",357,1.83
+47.76.146.1,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",483,1.73
+47.76.49.246,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",390,1.64
+47.76.49.246,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",403,1.48
+47.76.94.15,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",454,1.18
+47.76.146.1,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",438,1.02
+47.76.49.246,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",403,0.93
+47.76.146.1,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",492,0.59
+47.76.178.146,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",343,0.55
+47.76.178.146,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",365,0.47
+47.76.94.15,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",449,0.21
+47.76.94.15,2083,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",395,0.19
