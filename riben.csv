@@ -1,0 +1,7 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+38.47.121.241,31981,TRUE,NRT,JP,Asia Pacific,Tokyo,49901,Kuiper Network Ltd,474,6.55
+43.153.181.217,443,TRUE,NRT,JP,Asia Pacific,Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",549,5.70
+220.81.132.214,29798,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,488,4.52
+54.92.17.121,443,TRUE,NRT,JP,Asia Pacific,Tokyo,16509,AMAZON-02,843,4.25
+211.192.158.219,10122,TRUE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,448,4.17
+111.65.150.65,30032,TRUE,NRT,JP,Asia Pacific,Tokyo,17573,SK Broadband Co Ltd,379,4.08
