@@ -1,0 +1,6 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+18.140.5.21,993,TRUE,SIN,SG,Asia Pacific,Singapore,16509,AMAZON-02,421,9.12
+47.238.49.85,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",311,4.15
+8.219.199.220,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",890,4.00
+47.76.245.164,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",317,3.93
+47.239.13.168,80,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",314,3.78
