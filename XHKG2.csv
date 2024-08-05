@@ -1,0 +1,18 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+18.167.20.205,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,16509,AMAZON-02,1316,12.68
+8.217.250.222,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1475,6.70
+8.218.243.95,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1482,5.90
+183.178.22.246,11417,TRUE,HKG,HK,Asia Pacific,Hong Kong,9269,Hong Kong Broadband Network Ltd.,1129,5.53
+47.242.7.162,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1476,5.08
+8.210.55.134,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1475,4.78
+47.242.125.241,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1475,4.41
+47.242.119.104,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1572,4.28
+8.210.101.157,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1480,3.97
+38.150.15.137,443,TRUE,HKG,HK,Asia Pacific,Hong Kong,202662,Hytron Network Services Limited,1315,3.63
+8.210.66.190,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1324,3.44
+38.180.150.193,2053,TRUE,HKG,HK,Asia Pacific,Hong Kong,9009,M247 Europe SRL,1317,3.13
+8.210.21.65,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1380,3.07
+8.218.174.118,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1145,3.06
+47.76.159.146,2087,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1482,2.87
+8.217.127.73,8443,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1482,2.48
+47.242.54.157,2096,TRUE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",1145,2.07
